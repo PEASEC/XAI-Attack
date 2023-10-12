@@ -1,0 +1,9 @@
+src/results/
+src/logs/
+model/
+logs/
+*.cpython-39.pyc
+src/wandb/
+tmp_trainer/
+wandb/
+results/
