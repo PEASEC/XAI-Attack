@@ -35,7 +35,7 @@ parser.add_argument(
 parser.add_argument(
     "--random_insertion",
     action=argparse.BooleanOptionalAction,
-    help="Whether to use random insertion instead of prefixing for the adversarial words",
+    help="Whether to use random insertion instead of prefixing of the adversarial words",
     default=False,
 )
 
