@@ -1,7 +1,7 @@
 # XAI-Attack
 
 This is the repository of the adversarial example generation method XAI-Attack.
-Disclaimer: This repository contains a preliminary, anonymized version of the code and, therefore, might contain bugs or unintended behaviour. Furthermore, we are working on further improving the usability and adding all the functions.
+Disclaimer: his repository contains a preliminary, anonymized version of the code and may therefore contain bugs or unintended behaviour. We are also working to further improve the user experience and add all features.
 
 
 ## Getting started
