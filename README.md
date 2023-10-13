@@ -10,6 +10,7 @@ The gerneration of adversarial examples is done by running the `main.py` script.
 - `--model`: The model to use. Currently supported are all Huggingface models. We tested it with the distilBERT-base-uncased model.
 - `--wandb_logging`: Whether to use wandb or local logging. For wandb logging please set wandb variables in the script.
 - `--filtering`: Which filtering method to use (please refer to the paper): `none`, `count` or `indicator_words`.
+- `--random_insertion`: Whether to use random insertion instead of prefixing of the adversarial words.
 
 The script will create a folder in the `results` directory with the name of the dataset and the model. In this folder the adversarial examples will be saved.
 
