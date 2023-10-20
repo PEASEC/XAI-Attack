@@ -1,7 +1,7 @@
 # XAI-Attack
 
 This is the repository of the adversarial example generation method XAI-Attack.
-Disclaimer: his repository contains a preliminary, anonymized version of the code and may therefore contain bugs or unintended behaviour. We are also working to further improve the user experience and add all features.
+Disclaimer: This repository contains a preliminary, anonymized version of the code and may therefore contain bugs or unintended behaviour. We are also working to further improve the user experience and add all features.
 
 The adversarial examples (No Filtering, Count Filtering, Indicator Filtering, SHAP, Random Insert, BERT-Attack, BAE) of the XAI-Attack-Paper are available here: https://anonymfile.com/yp0g/adversarial-examples.zip.
 
