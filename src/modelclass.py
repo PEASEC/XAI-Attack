@@ -179,7 +179,7 @@ class ModelClass:
             compute_metrics=compute_metrics,
         )
 
-        trainer.train(resume_from_checkpoint=True)
+        trainer.train(resume_from_checkpoint=False)
         # logging the results
         logging.info("Training results:")
         logging.info(trainer.evaluate())
