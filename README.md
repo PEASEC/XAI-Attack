@@ -62,4 +62,3 @@ The code was tested on a cluster. For following the same procedure, please have 
 
 ## Acknowledgements
 The repository contains adjusted code from the LIME repository.
-Further acknowledgments are currently anonymized.
