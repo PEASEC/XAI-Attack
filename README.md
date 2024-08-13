@@ -6,6 +6,11 @@ Disclaimer: This repository contains a experimental version of the code and may 
 The adversarial examples (No Filtering, Count Filtering, Indicator Filtering, SHAP, Random Insert, BERT-Attack, BAE) of the XAI-Attack-Paper are available here: https://anonymfile.com/yp0g/adversarial-examples.zip.
 
 
+## Contact and Support
+
+If you have any questions, need access to datasets or the complete research data, or if you encounter any bugs, please feel free to contact me!
+
+
 ## Getting started
 The gerneration of adversarial examples is done by running the `main.py` script. The script takes the following arguments:
 - `--dataset`: The dataset to use. Currently supported for adversarial example creation are all the GLUE datasets.
