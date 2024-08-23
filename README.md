@@ -3,7 +3,7 @@
 This is the repository of the adversarial example generation method XAI-Attack.
 Disclaimer: This repository contains a experimental version of the code and may therefore contain bugs or unintended behaviour. We are also working to further improve the user experience and add all features.
 
-The adversarial examples (No Filtering, Count Filtering, Indicator Filtering, SHAP, Random Insert, BERT-Attack, BAE) of the XAI-Attack-Paper are available here: https://anonymfile.com/yp0g/adversarial-examples.zip.
+The adversarial examples (No Filtering, Count Filtering, Indicator Filtering, SHAP, Random Insert, BERT-Attack, BAE) of the XAI-Attack-Paper are available here: https://tudatalib.ulb.tu-darmstadt.de/bitstream/handle/tudatalib/4323/Adversarial%20Examples.zip?sequence=3&isAllowed=y or https://anonymfile.com/yp0g/adversarial-examples.zip.
 
 
 ## Contact and Support
@@ -45,12 +45,13 @@ The `adversarial_transfer.py` script evaluates the adversarial examples of the *
 
 ## Datasets
 
+
 Currently fully supported for adversarial creation and the evaluation experiments are `mnli`, `sst2`, `rte`, `qnli`, and `qqp`.
 Adversarial creation also works with all GLUE datasets.
 
 If you want to add a new dataset, please have a look at the `data/data_reader.py`.
 
-The adversarial examples (No Filtering, Count Filtering, Indicator Filtering, SHAP, Random Insert, BERT-Attack, BAE) of the XAI-Attack-Paper are available here: https://anonymfile.com/yp0g/adversarial-examples.zip
+The adversarial examples (No Filtering, Count Filtering, Indicator Filtering, SHAP, Random Insert, BERT-Attack, BAE) of the XAI-Attack-Paper are available here: https://tudatalib.ulb.tu-darmstadt.de/bitstream/handle/tudatalib/4323/Adversarial%20Examples.zip?sequence=3&isAllowed=y or https://anonymfile.com/yp0g/adversarial-examples.zip
 
 
 ## Requirements 
@@ -62,3 +63,7 @@ The code was tested on a cluster. For following the same procedure, please have 
 
 ## Acknowledgements
 The repository contains adjusted code from the LIME repository.
+
+## Authors
+
+Markus Bayer, Markus Neiczer, Maximilian Samsinger, Björn Buchhold, Christian Reuter
